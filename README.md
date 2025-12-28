@@ -13,3 +13,7 @@ This GitHub profile showcases my projects, skills, and learning journey.
 - **FPGA Platform:** Lattice iCE40 (HX8K, UP5K), Xilinx Artix-7
 - **Interfaces:** UART, I2C, SPI, VGA
 - **Tools:** Git, Linux
+
+## 📂 Projects
+
+
