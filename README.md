@@ -8,36 +8,11 @@ This GitHub profile showcases my projects, skills, and learning journey.
 📍 Hamburg, Germany
 
 ## 🔧 Skills & Technologies
-- **Languages:** C Programming, Python, Verilog, TCL Scripting, Bash, VHDL (Beginner level)
+- **Programming:** C Programming, Python, Verilog, TCL Scripting, Bash, VHDL (Beginner level)
 - **Toolchains:** Vivado, OSS-CAD-SUITE
 - **FPGA Platform:** Lattice iCE40 (HX8K, UP5K), Xilinx Artix-7
 - **Interfaces:** UART, I2C, SPI, VGA
 - **Tools:** Git, Linux
-
-## 🔧 Skills & Technologies
-
-### 🧠 Digital Design & FPGA
-- Verilog, VHDL (beginner)
-- Fixed-point arithmetic
-- RTL design & simulation
-- Timing, resource optimization
-
-### 🛠 Toolchains & Software
-- Vivado
-- OSS-CAD-SUITE (Yosys, NextPnR)
-- TCL scripting
-- Git, Linux, Bash
-
-### 🔌 FPGA Platforms
-- Lattice iCE40 (HX8K, UP5K)
-- Xilinx Artix-7
-
-### 🔗 Interfaces & Protocols
-- UART, SPI, I2C
-- VGA
-- FIFO, BRAM
-
----
 
 ## 📂 Projects
 
