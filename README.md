@@ -27,7 +27,7 @@ This GitHub profile showcases my projects, skills, and learning journey.
 
 ### [ADXL345 IMU with Lattice FPGA](https://github.com/Dharanesh07/Projects/tree/main/ADXL345-IMU-with-Lattice-FPGA)
 
-<img align="right" width="300" src="Projects/ADXL345-IMU-with-Lattice-FPGA/images/demo.gif" alt="ADXL345 Project">
+<img align="right" width="300" src="https://raw.githubusercontent.com/Dharanesh07/Projects/main/ADXL345-IMU-with-Lattice-FPGA/images/demo.gif" alt="ADXL345 Project">
 
 Real-time gesture recognition system using ADXL345 accelerometer and Lattice iCE40HX8K FPGA. Implemented custom SPI controller, FIFO buffering, digital filtering (4-sample sliding window), and direction mapping with UART output. Overcame challenges in axis alignment, buffer management, and real-time debugging.
 
