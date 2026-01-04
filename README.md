@@ -16,6 +16,11 @@ This GitHub profile showcases my projects, skills, and learning journey.
 
 ## 📂 Active Projects
 
+### OV7670 Camera interface with Xilinx Artix-7 FPGA
+- Completed i2c controller for camera configuration and vga controller to display frames on a external monitor
+- Working on a memory controller to use the SDRAM for buffering data from the camera.
+- Developed TCL based workflow to synthesize the design files
+
 ## 📂 Completed Projects
 
 ### Digital FIR Filter design in Lattice iCE40UP5k FPGA
@@ -24,7 +29,7 @@ This GitHub profile showcases my projects, skills, and learning journey.
 
 <img align="right" width="300" src="https://github.com/user-attachments/assets/c7f4956a-9c95-403d-99cd-c96e87591857" alt="ADXL345 Project">
 
-Real-time gesture recognition system using ADXL345 accelerometer and Lattice FPGA. Implements custom SPI controller, FIFO buffering, digital filtering (4-sample sliding window), and direction mapping with UART output. Overcame challenges in axis alignment, buffer management, and real-time debugging.
+Real-time gesture recognition system using ADXL345 accelerometer and Lattice iCE40HX8K FPGA. Implemented custom SPI controller, FIFO buffering, digital filtering (4-sample sliding window), and direction mapping with UART output. Overcame challenges in axis alignment, buffer management, and real-time debugging.
 
 **Tech Stack:** Verilog | SPI | UART | Digital Signal Processing | Lattice iCE40
 
