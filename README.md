@@ -14,6 +14,7 @@ This GitHub profile showcases my projects, skills, and learning journey.
 - **Interfaces:** UART, I2C, SPI, VGA
 - **Tools:** Git, Linux
 
-## 📂 Projects
+## 📂 Active Projects
 
+## 📂 Completed Projects
 
