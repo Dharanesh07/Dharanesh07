@@ -27,4 +27,14 @@ Real-time gesture recognition system using ADXL345 accelerometer and Lattice FPG
 
 Tech Stack: Verilog | SPI | UART | Digital Signal Processing | Lattice iCE40HX8K | Yosys | Iverilog 
 
+### [ADXL345 IMU with Lattice FPGA](https://github.com/Dharanesh07/Projects/tree/main/ADXL345-IMU-with-Lattice-FPGA)
+
+<img align="right" width="300" src="images/adxl345-demo.png" alt="ADXL345 Project">
+
+Real-time gesture recognition system using ADXL345 accelerometer and Lattice FPGA. Implements custom SPI controller, FIFO buffering, digital filtering (4-sample sliding window), and direction mapping with UART output. Overcame challenges in axis alignment, buffer management, and real-time debugging.
+
+**Tech Stack:** Verilog | SPI | UART | Digital Signal Processing | Lattice iCE40
+
+<br clear="right"/>
+
 ### LORA Mobile phone
