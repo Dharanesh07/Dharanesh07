@@ -23,7 +23,8 @@ This GitHub profile showcases my projects, skills, and learning journey.
 
 ## 📂 Completed Projects
 
-### Digital FIR Filter design in Lattice iCE40UP5k FPGA
+### [Digital FIR Filter design in Lattice iCE40UP5k FPGA](https://github.com/Dharanesh07/Digital-FIR-filter-in-FPGA)
+
 
 ### [ADXL345 IMU with Lattice FPGA](https://github.com/Dharanesh07/Projects/tree/main/ADXL345-IMU-with-Lattice-FPGA)
 
