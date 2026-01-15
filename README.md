@@ -25,6 +25,10 @@ This GitHub profile showcases my projects, skills, and learning journey.
 
 ### [Digital FIR Filter design in Lattice iCE40UP5k FPGA](https://github.com/Dharanesh07/Digital-FIR-filter-in-FPGA)
 
+Designed and implemented a resource-efficient 65-tap FIR digital filter on the iCE40UP5K FPGA for real-time IMU signal processing. Implemented DSP block sharing, fixed-point arithmetic, and parallel architectures to achieve high-performance filtering on a low-power, resource-constrained FPGA.
+
+**Tech Stack:** Verilog | Python | UART | Digital Signal Processing blocks | Lattice iCE40 | Yosys | Iverilog
+
 
 ### [ADXL345 IMU with Lattice FPGA](https://github.com/Dharanesh07/Projects/tree/main/ADXL345-IMU-with-Lattice-FPGA)
 
