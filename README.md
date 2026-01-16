@@ -41,6 +41,5 @@ Real-time gesture recognition system using ADXL345 accelerometer and Lattice iCE
 
 **Tech Stack:** Verilog | SPI | UART | Digital Signal Processing | Lattice iCE40 | Yosys | Iverilog
 
-<br clear="right"/>
 
 ### LORA Mobile phone
