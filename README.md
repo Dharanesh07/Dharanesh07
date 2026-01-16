@@ -49,6 +49,11 @@ Real-time gesture recognition system using ADXL345 accelerometer and Lattice iCE
 
 <img align="right" width="200" height="400" src="https://github.com/user-attachments/assets/1ec97aa5-a169-43c7-8514-41773889edec" />
 
+Design and Development: Engineered an affordable mobile phone using a Raspberry Pi running Linux OS. It features a keypad, OLED display, GSM modem, and LoRa module.
+Interfaces: I²C, SPI, UART and USB.
+Software: Developed the user interface in Python and implemented the low-level firmware in C.
+Power Management: Powered with Lithium polymer battery for portability.
+Functionality: Facilitated communication via text messages, calls, and data transfer through a 433 MHz LoRa module. Each phone functions as a node in a mesh network for extended communication range.
 
 <br clear="right"/>
 
@@ -56,6 +61,8 @@ Real-time gesture recognition system using ADXL345 accelerometer and Lattice iCE
 ### Flight Controller for Quadcopter
 <img align="right" width="200" height="400" src="https://github.com/user-attachments/assets/08c0cc30-7ede-455e-960f-eb1352acba17" />
 
+Hardware: Designed a flight computer using an STM32-based 32-bit MCU, IMU, and power distribution circuits.
+Control and Stability: Processed user inputs and IMU data to maintain the drone's attitude and position by controlling rotor thrust. Tuned various filtering methods using MATLAB for enhanced flight stability.
 
 <br clear="right"/>
 
