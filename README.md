@@ -52,3 +52,10 @@ Real-time gesture recognition system using ADXL345 accelerometer and Lattice iCE
 
 <br clear="right"/>
 
+
+### Flight Controller for Quadcopter
+<img align="right" width="200" height="400" src="https://github.com/user-attachments/assets/08c0cc30-7ede-455e-960f-eb1352acba17" />
+
+
+<br clear="right"/>
+
