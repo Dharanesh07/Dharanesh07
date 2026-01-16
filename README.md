@@ -47,7 +47,7 @@ Real-time gesture recognition system using ADXL345 accelerometer and Lattice iCE
 
 ### LORA Mobile phone
 
-<img align="right" width="200" height="400" src="https://github.com/user-attachments/assets/1ec97aa5-a169-43c7-8514-41773889edec)" alt="LORA mobile phone" />
+<img align="right" width="200" height="400" src="https://github.com/user-attachments/assets/1ec97aa5-a169-43c7-8514-41773889edec" />
 
 
 <br clear="right"/>
