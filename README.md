@@ -61,8 +61,8 @@ Real-time gesture recognition system using ADXL345 accelerometer and Lattice iCE
 ### Flight Controller for Quadcopter
 <img align="right" width="200" height="400" src="https://github.com/user-attachments/assets/08c0cc30-7ede-455e-960f-eb1352acba17" />
 
-Hardware: Designed a flight computer using an STM32-based 32-bit MCU, IMU, and power distribution circuits.
-Control and Stability: Processed user inputs and IMU data to maintain the drone's attitude and position by controlling rotor thrust. Tuned various filtering methods using MATLAB for enhanced flight stability.
+- Hardware: Designed a flight computer using an STM32-based 32-bit MCU, IMU, and power distribution circuits.
+- Control and Stability: Processed user inputs and IMU data to maintain the drone's attitude and position by controlling rotor thrust. Tuned various filtering methods using MATLAB for enhanced flight stability.
 
 <br clear="right"/>
 
