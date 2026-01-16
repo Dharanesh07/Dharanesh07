@@ -31,6 +31,7 @@ This GitHub profile showcases my projects, skills, and learning journey.
 Designed and implemented a resource-efficient 65-tap FIR digital filter on the iCE40UP5K FPGA for real-time IMU signal processing. Implemented DSP block sharing, fixed-point arithmetic, and parallel architectures to achieve high-performance filtering on a low-power, resource-constrained FPGA.
 
 **Tech Stack:** Verilog | Python | UART | Digital Signal Processing blocks | Lattice iCE40 | Yosys | Iverilog
+<br clear="right"/>
 
 
 ### [ADXL345 IMU with Lattice FPGA](https://github.com/Dharanesh07/Projects/tree/main/ADXL345-IMU-with-Lattice-FPGA)
@@ -40,6 +41,8 @@ Designed and implemented a resource-efficient 65-tap FIR digital filter on the i
 Real-time gesture recognition system using ADXL345 accelerometer and Lattice iCE40HX8K FPGA. Implemented custom SPI controller, FIFO buffering, digital filtering (4-sample sliding window), and direction mapping with UART output. Overcame challenges in axis alignment, buffer management, and real-time debugging.
 
 **Tech Stack:** Verilog | SPI | UART | Digital Signal Processing | Lattice iCE40 | Yosys | Iverilog
+
+<br clear="right"/>
 
 
 ### LORA Mobile phone
