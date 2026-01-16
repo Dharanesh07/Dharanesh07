@@ -28,7 +28,7 @@ This GitHub profile showcases my projects, skills, and learning journey.
 <img align="right" width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/7d5a3dfa-fa60-4db5-be65-99b686b37dd6" />
 
 
-Designed and implemented a resource-efficient 65-tap FIR digital filter on the iCE40UP5K FPGA for real-time IMU signal processing. Implemented DSP block sharing, fixed-point arithmetic, and parallel architectures to achieve high-performance filtering on a low-power, resource-constrained FPGA.
+Designed and implemented a resource-efficient 65-tap digital FIR filter on the iCE40UP5K FPGA for real-time IMU signal processing. Implemented DSP block sharing, fixed-point arithmetic, and parallel architectures to achieve high-performance filtering on a low-power, resource-constrained FPGA.
 
 **Tech Stack:** Verilog | Python | UART | Digital Signal Processing blocks | Lattice iCE40 | Yosys | Iverilog
 <br clear="right"/>
