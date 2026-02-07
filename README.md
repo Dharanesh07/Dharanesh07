@@ -24,6 +24,8 @@ This GitHub profile showcases my projects, skills, and learning journey.
 - Working on a memory controller to use the SDRAM for buffering data from the camera.
 - Implemented TCL based workflow to synthesize the design files
 
+<br clear="right"/>
+
 ## 📂 Completed Projects
 
 ### [Digital FIR Filter design in Lattice iCE40UP5k FPGA](https://github.com/Dharanesh07/Digital-FIR-filter-in-FPGA)
