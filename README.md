@@ -18,7 +18,7 @@ This GitHub profile showcases my projects, skills, and learning journey.
 ## 📂 Active Projects
 
 ### OV7670 Camera interface with Xilinx Artix-7 FPGA
-<img align="right" width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/2e7deb54-bbd6-436a-8113-8872a20598d1" />
+<img align="right" width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/2e7deb54-bbd6-436a-8113-8872a20598d1" />
 
 - Developed i2c controller for camera configuration and vga controller to display frames on a external monitor
 - Working on a memory controller to use the SDRAM for buffering data from the camera.
