@@ -17,7 +17,7 @@ This GitHub profile showcases my projects, skills, and learning journey.
 
 ## 📂 Active Projects
 
-### OV7670 Camera interface with Xilinx Artix-7 FPGA
+### [OV7670 Camera interface with Xilinx Artix-7 FPGA](https://github.com/Dharanesh07/OV7670-Camera-with-Artix-7-FPGA)
 <img align="right" width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/2e7deb54-bbd6-436a-8113-8872a20598d1" />
 
 - Developed i2c controller for camera configuration and vga controller to display frames on a external monitor
