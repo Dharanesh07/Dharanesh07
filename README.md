@@ -8,7 +8,7 @@ This GitHub profile showcases my projects, skills, and learning journey.
 💻 FPGA | Embedded Systems | Digital Design Engineer | Circuit Design  
 📍 Hamburg, Germany  
 📧 Email: [dharaneshwar.sasidharan@gmail.com](mailto:dharaneshwar.sasidharan@gmail.com)  
-💼 LinkedIn: [Dharaneshwar Sasidharan](www.linkedin.com/in/dharaneshwar-sasidharan-a704ba180)
+💼 LinkedIn: [Dharaneshwar Sasidharan](https://www.linkedin.com/in/dharaneshwar-sasidharan-a704ba180)
 
 ## 🔧 Skills & Technologies
 - **Programming:** C Programming, Python, Verilog, TCL Scripting, Bash, VHDL (Beginner level)
