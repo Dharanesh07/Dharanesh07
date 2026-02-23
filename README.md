@@ -6,7 +6,7 @@ This GitHub profile showcases my projects, skills, and learning journey.
 🎓 MSc Microelectronics & Microsystems at TU Hamburg  
 🎓 B.E. Electronics and Communication Engineering — St. Joseph’s College of Engineering, Chennai, India  
 💻 FPGA | Embedded Systems | Digital Design Engineer | Circuit Design  
-📍 Hamburg, Germany
+📍 Hamburg, Germany  
 📧 Email: [dharaneshwar.sasidharan@gmail.com](mailto:dharaneshwar.sasidharan@gmail.com)  
 💼 LinkedIn: [Dharaneshwar Sasidharan](www.linkedin.com/in/dharaneshwar-sasidharan-a704ba180)
 
