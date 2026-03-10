@@ -22,9 +22,9 @@ This GitHub profile showcases my projects, skills, and learning journey.
 ### [OV7670 Camera interface with Xilinx Artix-7 FPGA](https://github.com/Dharanesh07/OV7670-Camera-with-Artix-7-FPGA)
 <img align="right" width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/2e7deb54-bbd6-436a-8113-8872a20598d1" />
 
-- Developed i2c controller for camera configuration and vga controller to display frames on a external monitor
-- Working on a memory controller to use the SDRAM for buffering data from the camera.
-- Implemented TCL based workflow to synthesize the design files
+- Designed a fully pipelined RTL design to interface an OV7670 camera and stream video frames to VGA
+- Implemented SDRAM memory controller for frame buffering.
+- Implemented TCL-based build automation in Vivado for reproducible FPGA builds.
 
 <br clear="right"/>
 
