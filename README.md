@@ -1,21 +1,14 @@
 ## Hi! This is Dharaneshwar Sasidharan
 
-I am passionate about building real-world projects as well as learning and working with new technologies in digital design.  
+I am passionate about building real-world projects as well as learning and working with new technologies in embedded systems.  
 This GitHub profile showcases my projects, skills, and learning journey.
 
 🎓 MSc Microelectronics & Microsystems at TU Hamburg  
 🎓 B.E. Electronics and Communication Engineering — St. Joseph’s College of Engineering, Chennai, India  
-💻 FPGA | Embedded Systems | Digital Design Engineer | Circuit Design  
+💻 FPGA | Embedded Systems | Digital Design | Circuit Design | Hardware Design  
 📍 Hamburg, Germany  
 📧 Email: [dharaneshwar.sasidharan@gmail.com](mailto:dharaneshwar.sasidharan@gmail.com)  
 💼 LinkedIn: [Dharaneshwar Sasidharan](https://www.linkedin.com/in/dharaneshwar-sasidharan-a704ba180)
-
-## 🔧 Skills & Technologies
-- **Programming:** C Programming, Python, Verilog, TCL Scripting, Bash, VHDL (Beginner level)
-- **Toolchains:** Vivado, OSS-CAD-SUITE
-- **FPGA Platform:** Lattice iCE40 (HX8K, UP5K), Xilinx Artix-7
-- **Interfaces:** UART, I2C, SPI, VGA
-- **Tools:** Git, Linux
 
 ## 📂 Active Projects
 
